@@ -7,7 +7,7 @@ npm install
 
 ## Create .env file (can be based on .env.example)
 
-##  Angular
+##  Run Angular
 ng serve
 
 ## Run Laravel
