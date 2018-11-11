@@ -7,6 +7,9 @@ npm install
 
 ## Create .env file (can be based on .env.example)
 
+## Ejecutar migraciones
+php artisan migrate
+
 ##  Run Angular
 ng serve
 
