@@ -1,14 +1,14 @@
 # movies
 CRUD from a movie store
 
-##Installation
+## Installation
 composer install
 npm install
 
-##Create .env file (can be based on .env.example)
+## Create .env file (can be based on .env.example)
 
-##Run Angular
+##  Angular
 ng serve
 
-##Run Laravel
+## Run Laravel
 php artisan serve
