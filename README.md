@@ -1,4 +1,4 @@
-# movies
+# Movies
 CRUD from a movie store
 
 ## Installation
